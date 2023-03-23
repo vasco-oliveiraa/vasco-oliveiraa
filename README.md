@@ -33,6 +33,6 @@
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" title="LinkedIn" alt="Let's connect on LinkedIn" width="40" height="40"/>
   </a>
   </a href="">
-    <img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/02_White/PNG/RGB/Medium-Symbol-White-RGB%401x.png" title="Medium" alt="Follow me on Medium" width="40" height="40"/>
+    <img src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/JPG/RGB/Medium-Symbol-Black-RGB%401x.jpg" title="Medium" alt="Follow me on Medium" width="40" height="40"/>
   </a>
  </div>
