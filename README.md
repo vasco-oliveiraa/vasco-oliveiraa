@@ -14,6 +14,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+
+<div>
+  <a href="https://www.linkedin.com/in/vascooliveiraa/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title=LinkedIn width="40" height="40"/></a>
 <!--
 **vasco-oliveiraa/vasco-oliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
