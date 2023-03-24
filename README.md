@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40"/>&nbsp;
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" title="Streamlit" alt="Streamlit" width="60" height="40"/>&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" title="Streamlit" alt="Streamlit" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="60"/>&nbsp;
 </div>
