@@ -7,17 +7,15 @@
 
 🇵🇹 Portuguese at heart, with 🇧🇷 Brazilian optimism, 🇨🇦 Canadian kindness, 🇪🇸 Spanish passion, and 🇳🇱 Dutch practicality.
 
-📖 Currently a student in the Master in Business Analytics & Big Data at IE University.
-
-🌍 I’m an enthusiastic traveler (25+ countries and counting) with the dream of exploring every corner of the world. I am fascinated by discovering new 🌄landscapes, immersing myself in diverse 🏰cultures, and tasting the most varied 🍝cuisines.
-
-📚Proud generalist, always eager to learn more about almost anything, and feel at home in dynamic and challenging environments. Enjoy reading a good book and playing ⚽🏐🎾 sports whenever possible. 
+- 📖 Currently a student in the Master in Business Analytics & Big Data at IE University.
+- 🌍 I’m an enthusiastic traveler (25+ countries and counting) with the dream of exploring every corner of the world. I am fascinated by discovering new 🌄landscapes, immersing myself in diverse 🏰cultures, and tasting the most varied 🍝cuisines.
+- 📚Proud generalist, always eager to learn more about almost anything, and feel at home in dynamic and challenging environments. Enjoy reading a good book and playing ⚽🏐🎾 sports whenever possible. 
 
 𝗙𝘂𝗻 𝗙𝗮𝗰𝘁𝘀:
 
-🧑‍💼 Managed my first business when I was 15 (a school supplies shop) which sparked my entrepreneurial 🔥 flame.
-🗺️ I love to be quizzed on geography questions. My hidden talent is the ability to point out all countries on a world map. Even the 🏝️smallest islands.
-🗣️ Born introvert turned confident communicator. Cold calls cure all shyness.
+- 🧑‍💼 Managed my first business when I was 15 (a school supplies shop) which sparked my entrepreneurial 🔥 flame.
+- 🗺️ I love to be quizzed on geography questions. My hidden talent is the ability to point out all countries on a world map. Even the 🏝️smallest islands.
+- 🗣️ Born introvert turned confident communicator. Cold calls cure all shyness.
 
 **Tech Stack**
 
@@ -35,7 +33,8 @@
   <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" title="Looker" alt="Looker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
 </div>
-
+<br>
+</br>
 <div align="center">
   <a href="https://www.linkedin.com/in/vascooliveiraa/">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" title="LinkedIn" alt="Let's connect on LinkedIn" width="40" height="40"/>
